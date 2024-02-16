@@ -94,8 +94,8 @@ def question2():
     answer["(a) entropy_entire_data"] = 1.4253642047367425
 
     answer["(b) x < 0.2"] = 0.17739286055515824
-    answer["(b) x <= 0.7"] = 0.3557029418697566
-    answer["(b) y <= 0.6"] = 0.34781842724338197
+    answer["(b) x < 0.7"] = 0.3557029418697566
+    answer["(b) y < 0.6"] = 0.34781842724338197
 
     # choose one of 'x=0.2', 'x=0.7', or 'x=0.6'
     answer["(c) attribute"] = "y=0.6"  
